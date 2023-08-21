@@ -20,7 +20,7 @@ Welcome to PyPortScan, your go-to tool for network reconnaissance and security a
 ## 📖 How to Use:
 1. Clone the repository and navigate to the project directory.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Run the scanner from the command line: `python pyportscan.py <target_host> -p <port_range>`.
+3. Run the scanner from the command line: `python3 PyPortScan.py`.
 4. Explore the scan results and leverage the data for your network assessments.
 
 ## 🤝 Contributions:
