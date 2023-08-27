@@ -53,7 +53,7 @@ Welcome to PyPortScan, your go-to tool for network reconnaissance and security a
 
 ### Code Explanation
 
-The `port_scanner.py` script consists of the following functions:
+The `PyPortScan.py` script consists of the following functions:
 
 - `scan(target, ports)`: This function initiates the port scanning process. It iterates through the range of ports and calls the `scan_port` function for each port.
 
